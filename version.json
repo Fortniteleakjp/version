@@ -1,7 +1,7 @@
 {
-    "version": "1.1.1",
-    "latestVersion": "1.1",
+    "version": "1.1.2",
+    "latestVersion": "1.1.1",
     "status": "beta",
-    "releaseDate": "2025-06-21",
+    "releaseDate": "2025-06-22",
     "description": "基本的な機能のみを提供するβ版です。安定性はまだ保証されておらず、機能は今後拡張予定です。"
 }
