@@ -1,7 +1,7 @@
 {
-    "version": "1.3.0",
-    "latestVersion": "1.2.0",
+    "version": "1.4.0",
+    "latestVersion": "1.3.0",
     "status": "Release",
-    "releaseDate": "2025-09-20-01:18",
-    "description": "参照元へのリンクを追加しました。"
+    "releaseDate": "2025-09-22-01:25",
+    "description": "複数タブを開けるように変更しました。"
 }
